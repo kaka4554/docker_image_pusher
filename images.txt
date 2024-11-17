@@ -7,6 +7,5 @@ xhofe/alist:latest
 
 keynetworks/ztncui
 jonnyan404/zerotier-moon
-library/ubuntu:20.04
-library/golang:latest
-
+docker.io/library/ubuntu:20.04 
+docker.io/library/golang:latest 
