@@ -7,3 +7,5 @@ xhofe/alist:latest
 
 keynetworks/ztncui
 jonnyan404/zerotier-moon
+ubuntu:20.04
+golang:latest
