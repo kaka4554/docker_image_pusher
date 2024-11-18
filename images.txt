@@ -1,2 +1,2 @@
 redis:5.0.14.1
-mysql:8.4.1
+mysql:8.4
