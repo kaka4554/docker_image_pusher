@@ -10,4 +10,5 @@ jonnyan404/zerotier-moon
 docker.io/library/ubuntu:20.04 
 docker.io/library/golang:latest 
 docker.io/library/alpine:latest 
-docker.io/library/node:lts 
+docker.io/library/node:ltredis
+redis
